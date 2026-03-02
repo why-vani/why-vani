@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=500&height=100&lines=Hi+there!+I'm+Vanipal;A+Python+Developer+and+100%+Achievement+Hunter;Currently+conquering+Hogwarts+Legacy;Building+Steam+and+Epic+Games+trackers;Always+leveling+up+my+coding+XP..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=500&height=100&lines=Hi+there!+I'm+Vani;um... a gamer ig;Always+leveling+up+my+gaming and coding+XP..." alt="Typing SVG" />
 </p>
 ## (✿◡‿◡)       Bury the light with me
 
