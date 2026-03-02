@@ -1,8 +1,8 @@
-## (✿◡‿◡) Bury the light with me
+## (✿◡‿◡)       Bury the light with me
 
 ![Snake animation](https://github.com/why-vani/why-vani/blob/output/github-snake.svg)
 
-### 🖥️ Tech Stack & Tools
+### (❁´◡`❁)      Tech Stack & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -12,9 +12,3 @@
 </p>
 
 
-### 📈 Coding XP
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=why-vani&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-</p>
-
-🕹️ Favorite Franchises: Legend of zelda, Devil May Cry, Bayonetta
