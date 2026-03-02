@@ -9,37 +9,6 @@
 
 <div align="center">
 
-# ⚡ Welcome to my Profile! ⚡
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi,+I'm+Vanipal+Singh!;Gamer.+Developer.+Achiever.;Tracking+100%25+Platinums.;Building+Python+Apps." alt="Typing SVG" />
-
-<br/>
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXN4Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6JnB0PW0mY3Q9cw/3o7TKMGpx4SqhI6J5u/giphy.gif" width="120" />
-
----
-
-### 🕹️ Play Tic-Tac-Toe vs. The Community
-*Click a square below to vote for the next move! Updated every hour.*
-
-[![](https://raw.githubusercontent.com/DoubleGremlin181/DoubleGremlin181/master/tictactoe.svg)](#)
-
----
-
-### 🛠️ What I'm Working On
-| Project | Language | Status |
-| :--- | :---: | :--- |
-| **Epic Games Tracker** | 🐍 Python | 🚀 Live |
-| **Steam Price Tracker** | 🕸️ Streamlit | 🛠️ Improving |
-| **Trophy Hunter Bot** | 🎮 Node.js | 📅 Planning |
-
----
-
-### 📊 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight" alt="Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=tokyonight" alt="Languages" height="150" />
-</p>
 
 </div>
 
