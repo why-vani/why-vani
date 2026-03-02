@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=500&height=100&lines=Lotta+people+been+askin';why+my+voice+bleeps+all+the+time.;The+Torgue+Shareholders+wired+my+voicebox;witha+digital+censor;so+I+can't+say+stuff+like;sh*t,+c*ck,+or+p*ssy+f*ckin'+d*ckballs!;That's+half+my+f*ckin'+vocabulary;It's+goddamn+bullsh*t!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00f2ff&center=true&vCenter=true&multiline=true&width=600&height=150&lines=Lotta+people+been+askin';why+my+voice+bleeps+all+the+time.;The+Torgue+Shareholders+wired+my+voicebox;witha+digital+censor;so+I+can't+say+stuff+like;sh*t,+c*ck,+or+p*ssy+f*ckin'+d*ckballs!;That's+half+my+f*ckin'+vocabulary;It's+goddamn+bullsh*t!" alt="Typing SVG" />
 </p>
+
 ## (✿◡‿◡)       Bury the light with me
 
 ![Snake animation](https://github.com/why-vani/why-vani/blob/output/github-snake.svg)
