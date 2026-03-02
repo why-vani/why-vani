@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=DotGothic16&size=25&pause=100&color=FFFFFF&center=true&vCenter=true&multiline=true&width=600&height=120&lines=The+world+only+has+two+things:;Things+you+can+eat+and;things+you+cannot+eat." alt="Nothing Font Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=DotGothic16&size=25&pause=1&color=FFFFFF&center=true&vCenter=true&multiline=true&width=600&height=120&lines=The+world+only+has+two+things:;Things+you+can+eat+and;things+you+cannot+eat." alt="Nothing Font Quote" />
 </p>
 
 ## (✿◡‿◡)       Bury the light with me
