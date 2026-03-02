@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=500&height=100&lines=Hi+there!+I'm+Vani;um...+a+gamer+ig;and+also+a+badass;Always+leveling+up+my+gaming+and+coding+XP..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=500&height=100&lines=sup+homies!+it's+yo+boi+vani;man+i'm+retarded" alt="Typing SVG" />
 </p>
 ## (✿◡‿◡)       Bury the light with me
 
