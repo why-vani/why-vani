@@ -11,7 +11,3 @@
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
-## 🕹️ Quest Log
-* **Currently Playing:** *Hogwarts Legacy* (Aiming for 100% achievements!)
-* **Favorite Franchises:** *Tomb Raider*, *Devil May Cry*, *Bayonetta*, *Grand Theft Auto*
-* **Platform:** PC (HP Victus 15 / MacBook Air M4)
