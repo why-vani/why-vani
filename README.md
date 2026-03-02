@@ -10,3 +10,11 @@
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit" />
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
+
+
+### 📈 Coding XP
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=why-vani&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+</p>
+
+🕹️ Favorite Franchises: Legend of zelda, Devil May Cry, Bayonetta
