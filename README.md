@@ -15,3 +15,8 @@
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
+### 📊 My All-Time Coding XP
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=why-vani&layout=compact&range=all_time&theme=radical&hide_border=true" alt="WakaTime All-Time" />
+</p>
+
