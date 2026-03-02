@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7E018&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Vanipal;Python+Developer+in+the+making;100%+Achievement+Hunter;Tracking+Steam+Prices...;Building+Epic+Games+Alerters" alt="Typing SVG" />
+</p>
+
 ## (✿◡‿◡)       Bury the light with me
 
 ![Snake animation](https://github.com/why-vani/why-vani/blob/output/github-snake.svg)
