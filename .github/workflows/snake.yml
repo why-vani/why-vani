@@ -1,32 +1,42 @@
 name: Generate Snake
 
 on:
+  # Run every 6 hours
   schedule:
-    - cron: "0 0 * * *" # Runs every 24 hours
-  workflow_dispatch: # Allows you to run it manually
+    - cron: "0 */6 * * */"
+  # Allows you to manually run the job at any time
+  workflow_dispatch:
+  # Run on every push to the main branch
+  push:
+    branches:
+    - main
 
 jobs:
-  build:
+  generate:
+    permissions: 
+      contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 5
+    
     steps:
-      - name: Generate Snake Animation
-        uses: Platane/snk@v3
+      # Generates a snake game from a github user ($GITHUB_REPOSITORY_OWNER) contributions graph, output a svg animation at <target_branch>/<file>
+      - name: generate-github-contribution-grid-snake
+        uses: platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
+          # This token is required to fetch private contribution data
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: generate-snake-game-from-github-contribution-grid
-        uses: platane/snk@v3
+          
+      # Push the content of <build_dir> to a branch
+      # The content will be available at https://raw.githubusercontent.com/<user>/<repo>/<branch>/<file> or with github pages
+      - name: push github-contribution-grid-snake to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-            # use your username
-            github_user_name: why-vani
-            outputs: |
-              dist/github-snake.svg
-              dist/github-snake-dark.svg?palette=github-dark
+          target_branch: output
+          build_dir: dist
         env:
-          # This token allows the snake to "see" private repos
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
