@@ -7,7 +7,8 @@
 <!-- Snake Animation -->
 <div align="center">
     
-  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/why-vani/why-vani/output/github-contribution-grid-snake-dark.svg)
+
 </div>
 
 
