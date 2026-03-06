@@ -4,8 +4,7 @@
 
 ## (✿◡‿◡)       Bury the light with me
 
-![Snake animation](https://github.com/why-vani/why-vani/blob/output/github-contribution-grid-snake-dark.svg)
-
+![Snake animation](https://raw.githubusercontent.com/why-vani/why-vani/output/github-contribution-grid-snake.svg)
 
 <div align="center">
 
